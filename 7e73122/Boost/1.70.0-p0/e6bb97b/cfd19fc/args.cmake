@@ -1,0 +1,7 @@
+set("cxxflags" "'-std=c++14'" CACHE INTERNAL "")
+set("link" "static" CACHE INTERNAL "")
+set("variant" "release" CACHE INTERNAL "")
+set("threading" "multi" CACHE INTERNAL "")
+set("runtime-link" "static" CACHE INTERNAL "")
+set("runtime-link" "${runtime-link}" "--with-fiber" CACHE INTERNAL "")
+set("runtime-link" "${runtime-link}" "--reconfigure" CACHE INTERNAL "")
