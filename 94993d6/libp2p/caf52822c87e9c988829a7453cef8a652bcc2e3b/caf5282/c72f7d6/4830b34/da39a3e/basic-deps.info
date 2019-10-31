@@ -1,0 +1,8 @@
+Boost
+Boost filesystem
+Boost random
+GSL
+GTest
+OpenSSL
+Protobuf
+spdlog
