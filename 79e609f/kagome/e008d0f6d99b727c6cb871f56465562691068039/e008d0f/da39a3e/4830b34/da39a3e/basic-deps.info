@@ -1,0 +1,18 @@
+Boost
+Boost filesystem
+Boost program_options
+Boost random
+Boost.DI
+GTest
+Microsoft.GSL
+OpenSSL
+Protobuf
+RapidJSON
+binaryen
+iroha-ed25519
+leveldb
+libp2p
+spdlog
+sr25519
+tsl_hat_trie
+xxhash
