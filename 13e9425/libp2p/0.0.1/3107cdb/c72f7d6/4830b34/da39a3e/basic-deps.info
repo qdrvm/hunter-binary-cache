@@ -1,0 +1,12 @@
+Boost
+Boost filesystem
+Boost program_options
+Boost random
+Boost.DI
+GTest
+Microsoft.GSL
+OpenSSL
+Protobuf
+SQLiteModernCpp
+spdlog
+tsl_hat_trie
