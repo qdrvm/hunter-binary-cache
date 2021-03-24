@@ -1,0 +1,14 @@
+Boost
+Boost filesystem
+Boost program_options
+Boost random
+Boost.DI
+Microsoft.GSL
+OpenSSL
+Protobuf
+SQLiteModernCpp
+c-ares
+fmt
+soralog
+tsl_hat_trie
+yaml-cpp
