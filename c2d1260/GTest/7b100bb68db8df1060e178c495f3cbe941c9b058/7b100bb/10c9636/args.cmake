@@ -1,0 +1,5 @@
+set("HUNTER_INSTALL_LICENSE_FILES" "googletest/LICENSE" CACHE INTERNAL "")
+set("gtest_force_shared_crt" "TRUE" CACHE INTERNAL "")
+set("CMAKE_CXX_FLAGS" "-Wno-deprecated-copy" CACHE INTERNAL "")
+set("CMAKE_CXX_FLAGS" "${CMAKE_CXX_FLAGS}" "_gtest_license" CACHE INTERNAL "")
+set("CMAKE_CXX_FLAGS" "${CMAKE_CXX_FLAGS}" "googletest/LICENSE" CACHE INTERNAL "")
