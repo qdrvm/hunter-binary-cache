@@ -1,0 +1,22 @@
+Boost
+Boost filesystem
+Boost program_options
+Boost random
+Boost.DI
+Microsoft.GSL
+OpenSSL
+Protobuf
+RapidJSON
+backward-cpp
+binaryen
+fmt
+jsonrpc-lean
+leveldb
+libp2p
+libsecp256k1
+prometheus-cpp
+schnorrkel_crust
+soralog
+wavm
+xxhash
+zstd
