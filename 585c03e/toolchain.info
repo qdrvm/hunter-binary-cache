@@ -1,0 +1,12 @@
+Cache version: 6
+Polly toolchains:
+    IPHONEOS_ARCHS: 
+    IPHONESIMULATOR_ARCHS: 
+Other:
+    CMAKE_GENERATOR: Unix Makefiles
+    HUNTER_CONFIGURATION_TYPES: Release;Debug
+    HUNTER_TOOLCHAIN_UNDETECTABLE_ID: 
+    CMAKE_RELEASE_POSTFIX: 
+    CMAKE_DEBUG_POSTFIX: d
+Predefined macroses:
+#define __x86_64__ 1
