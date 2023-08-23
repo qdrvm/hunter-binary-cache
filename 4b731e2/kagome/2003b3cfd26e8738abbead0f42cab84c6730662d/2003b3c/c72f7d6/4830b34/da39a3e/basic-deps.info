@@ -1,0 +1,25 @@
+Boost
+Boost date_time
+Boost filesystem
+Boost program_options
+Boost random
+Boost.DI
+Microsoft.GSL
+OpenSSL
+Protobuf
+RapidJSON
+backward-cpp
+benchmark
+binaryen
+erasure_coding_crust
+jsonrpc-lean
+libp2p
+libsecp256k1
+prometheus-cpp
+rocksdb
+scale
+schnorrkel_crust
+soralog
+wavm
+xxhash
+zstd
