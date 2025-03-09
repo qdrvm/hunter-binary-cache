@@ -1,0 +1,6 @@
+set("BUILD_TESTS" "OFF" CACHE INTERNAL "")
+set("JAM_COMPATIBLE" "OFF" CACHE INTERNAL "")
+set("CUSTOM_CONFIG_SUPPORT" "OFF" CACHE INTERNAL "")
+set("MAX_AGGREGATE_FIELDS" "20" CACHE INTERNAL "")
+set("CMAKE_CXX_FLAGS" "-fsanitize=address -fsanitize-address-use-after-scope -fno-omit-frame-pointer" CACHE INTERNAL "")
+set("CMAKE_C_FLAGS" "-fsanitize=address -fsanitize-address-use-after-scope -fno-omit-frame-pointer" CACHE INTERNAL "")
